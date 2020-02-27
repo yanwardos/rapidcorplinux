@@ -1,5 +1,5 @@
 <?php
 
-echo "Oke ini adalah dari rapidcorlearn lewat git";
+echo "<h1>Oke ini adalah dari rapidcorlearn lewat git</h1>";
 
 ?>
