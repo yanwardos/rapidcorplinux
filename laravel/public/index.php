@@ -16,7 +16,7 @@
     </head>
     <body>
         <div class="container">
-            <h1>The Owl Team</h1>
+            <h1>The Owl Development Team</h1>
         </div>
     </body>
 </html>
